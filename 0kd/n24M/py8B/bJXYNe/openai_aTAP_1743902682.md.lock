@@ -1977,7 +1977,6 @@ dependencies = [
  "libc",
 ]
 
-[[package]]
 name = "markup5ever"
 version = "0.11.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
