@@ -15,7 +15,6 @@ indent_size = 2
 indent_style = tab
 
 [*.{bat,cmd,cmd.*}]
-end_of_line = crlf
 [*.{ps1,ps1.*}]
 end_of_line = crlf
 indent_style = space
