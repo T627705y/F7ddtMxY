@@ -5,7 +5,6 @@ node_js: "12"
 before_install:
 - npm install -g azurite
 install:
-- mkdir /tmp/mnt
 - make s3proxy.jar
 script: travis_retry ./test/run-tests.sh GoofysTest
 go:
